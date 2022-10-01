@@ -20,6 +20,12 @@ const alunas=[
         nota:7
     },
     {
+        nome:"Ana",
+        nota:5
+
+    },
+
+    {
         nome:"Maria",
         nota:8,
         curso:"preta lab"
