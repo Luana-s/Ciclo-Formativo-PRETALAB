@@ -9,6 +9,4 @@ function verificaPar(num){
     
 
 }
-const num=2
-
 console.log(valores.filter(verificaPar))
