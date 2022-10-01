@@ -20,8 +20,8 @@ console.log(valor, nome, curso)*/
 //console.log("Hello,Word")
 
 
-let nome ="luana"
-let idade= 21
+let nome ="luana";
+let idade= 21;
 
 
 //console.log(nome + idade) //concatenacao js nao reconhece os diferentes tipos
