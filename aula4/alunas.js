@@ -1,7 +1,7 @@
 const alunas=[
     {aluno: "Maria",nota:10},
     {aluno: "João",nota:8},
-    {aluno: "José",nota:9},
+    {aluno: "José",nota:7},
     {aluno: "Vera",nota:10},
 
 ];
