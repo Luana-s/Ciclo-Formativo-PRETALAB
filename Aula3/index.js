@@ -1,6 +1,6 @@
-const valores=[0,1,2,3]
-valores.copyWithin(1,2)
-console.log(valores)
+const valores=[0,1,2,3,4]
+//valores.copyWithin(1,2)
+//console.log(valores)
 
 function verificaPar(num){
     if(num % 2 ==0){
