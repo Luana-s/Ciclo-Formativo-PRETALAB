@@ -2,13 +2,13 @@ function bemVinda () {
     
     if(!document.querySelector('#bemvinda')){
         const mensagem = document.createElement('h1')
-        mensagem.innerHTML = 'Bem vinda Nath' 
+        mensagem.innerHTML = 'Bem vinda Luana' 
         mensagem.id = 'bemvinda' 
         document.querySelector('#mensagem').appendChild(mensagem)
     }
 }
 
-function mudaCor () {
+function mudarCor () {
     let corFonte = document.querySelector('#bemvinda').style.color
     console.log(corFonte)
     if (corFonte == '' || corFonte == 'rgb(0, 0, 0)' ) {
